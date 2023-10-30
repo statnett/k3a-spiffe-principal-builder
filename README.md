@@ -14,11 +14,7 @@ Then the broker must be instructed to use this class to build principals by
 adding the following to the configuration file:
 
 ```properties
-<<<<<<< Updated upstream
-principal.builder.class=io.statnett.k3a-spiffe.SpiffePrincipalBuilder
-=======
 principal.builder.class=io.statnett.k3a.authz.spiffe.SpiffePrincipalBuilder
->>>>>>> Stashed changes
 ```
 
 ## References
