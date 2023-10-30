@@ -1,4 +1,4 @@
-package no.statnett.k3aspiffe;
+package io.statnett.k3aspiffe;
 
 import org.apache.kafka.common.security.auth.AuthenticationContext;
 import org.apache.kafka.common.security.auth.KafkaPrincipal;

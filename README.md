@@ -14,7 +14,7 @@ Then the broker must be instructed to use this class to build principals by
 adding the following to the configuration file:
 
 ```properties
-principal.builder.class=no.statnett.k3aspiffe.SpiffePrincipalBuilder
+principal.builder.class=io.statnett.k3aspiffe.SpiffePrincipalBuilder
 ```
 
 ## References
