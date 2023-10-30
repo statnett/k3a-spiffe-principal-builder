@@ -16,3 +16,8 @@ adding the following to the configuration file:
 ```properties
 principal.builder.class=no.statnett.k3aspiffe.SpiffePrincipalBuilder
 ```
+
+## References
+
+There is [a KIP requesting this kind of
+functionality](https://cwiki.apache.org/confluence/display/KAFKA/KIP-880%3A+X509+SAN+based+SPIFFE+URI+ACL+within+mTLS+Client+Certificates).
