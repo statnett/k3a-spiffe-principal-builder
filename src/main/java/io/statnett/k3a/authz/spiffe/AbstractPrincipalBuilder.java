@@ -1,4 +1,4 @@
-package io.statnett.k3aspiffe;
+package io.statnett.k3a.authz.spiffe;
 
 import org.apache.kafka.common.Configurable;
 import org.apache.kafka.common.config.internals.BrokerSecurityConfigs;
