@@ -18,3 +18,8 @@ jobs:
         run: mvn --batch-mode deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push GitHub release artifact
+        uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            target/*.jar
