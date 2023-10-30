@@ -19,7 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Push GitHub release artifact
-        uses: softprops/action-gh-release@v1
+        uses: actions/upload-artifact@v3
         with:
-          files: |
-            target/*.jar
+          name: jar
+          path: target/*.jar
