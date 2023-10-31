@@ -14,10 +14,8 @@ jobs:
         with:
           java-version: '11'
           distribution: 'temurin'
-      - name: Publish package
-        run: mvn --batch-mode deploy
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Build package
+        run: mvn --batch-mode verify
       - name: Push GitHub release artifact
         uses: softprops/action-gh-release@v1
         with:

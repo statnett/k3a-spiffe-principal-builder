@@ -31,14 +31,6 @@
         <kafka.version>3.6.0</kafka.version>
     </properties>
 
-    <distributionManagement>
-        <repository>
-            <id>github</id>
-            <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/statnett/${project.artifactId}</url>
-        </repository>
-    </distributionManagement>
-
     <dependencies>
 
         <dependency>
