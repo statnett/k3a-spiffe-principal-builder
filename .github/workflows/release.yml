@@ -16,6 +16,6 @@ jobs:
       - name: Build package
         run: mvn --batch-mode verify
       - name: Push GitHub release artifact
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@de2c0eb89ae2a093876385947365aca7b0e5f844 # v0.1.15
         with:
           files: target/*.jar
