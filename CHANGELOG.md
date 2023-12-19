@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.1](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.0...v3.1.1) (2023-12-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson.core:jackson-databind to v2.16.0 ([#14](https://github.com/statnett/k3a-spiffe-principal-builder/issues/14)) ([ebd7e16](https://github.com/statnett/k3a-spiffe-principal-builder/commit/ebd7e16dd5b7c6359c6d30e91ee001d810c7dcf0))
+* **deps:** update dependency org.apache.kafka:kafka-clients to v3.6.1 ([#18](https://github.com/statnett/k3a-spiffe-principal-builder/issues/18)) ([ced5ffd](https://github.com/statnett/k3a-spiffe-principal-builder/commit/ced5ffd51b866d566c34056bc6c5103c70e66c72))
+
 ## [3.1.0](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.0.1...v3.1.0) (2023-10-31)
 
 
