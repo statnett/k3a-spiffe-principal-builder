@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.4](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.3...v3.1.4) (2024-04-12)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.slf4j:slf4j-bom to v2.0.13 ([#44](https://github.com/statnett/k3a-spiffe-principal-builder/issues/44)) ([238c764](https://github.com/statnett/k3a-spiffe-principal-builder/commit/238c764eece3d7065380aba9276dfe4428fbab2c))
+
 ## [3.1.3](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.2...v3.1.3) (2024-03-18)
 
 
