@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.5](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.4...v3.1.5) (2024-05-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.17.1 ([#47](https://github.com/statnett/k3a-spiffe-principal-builder/issues/47)) ([6968c03](https://github.com/statnett/k3a-spiffe-principal-builder/commit/6968c03c616e87589036d609f208aed08033e2aa))
+
 ## [3.1.4](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.3...v3.1.4) (2024-04-12)
 
 
