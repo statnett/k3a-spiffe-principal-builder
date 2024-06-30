@@ -1,5 +1,13 @@
 # Changelog
 
+## [3.1.6](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.5...v3.1.6) (2024-06-30)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.apache.kafka:kafka-clients to v3.7.1 ([#55](https://github.com/statnett/k3a-spiffe-principal-builder/issues/55)) ([0ac89d6](https://github.com/statnett/k3a-spiffe-principal-builder/commit/0ac89d6e98abb589f09ab13fbbc7f60b46330407))
+* **deps:** update dependency org.junit:junit-bom to v5.10.3 ([#53](https://github.com/statnett/k3a-spiffe-principal-builder/issues/53)) ([3af3f07](https://github.com/statnett/k3a-spiffe-principal-builder/commit/3af3f07bfb2c7d83fecef784389fbec8ab11fa28))
+
 ## [3.1.5](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.4...v3.1.5) (2024-05-13)
 
 
