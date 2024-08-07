@@ -1,5 +1,16 @@
 # Changelog
 
+## [3.1.6](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.5...v3.1.6) (2024-08-07)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.17.2 ([#56](https://github.com/statnett/k3a-spiffe-principal-builder/issues/56)) ([3965522](https://github.com/statnett/k3a-spiffe-principal-builder/commit/39655226df6985bc109228d79374a3f991e3c370))
+* **deps:** update dependency org.apache.kafka:kafka-clients to v3.7.1 ([#55](https://github.com/statnett/k3a-spiffe-principal-builder/issues/55)) ([0ac89d6](https://github.com/statnett/k3a-spiffe-principal-builder/commit/0ac89d6e98abb589f09ab13fbbc7f60b46330407))
+* **deps:** update dependency org.apache.kafka:kafka-clients to v3.8.0 ([#59](https://github.com/statnett/k3a-spiffe-principal-builder/issues/59)) ([4decc64](https://github.com/statnett/k3a-spiffe-principal-builder/commit/4decc6470eabb2a7bf364d0f17b8cb72bd189ca0))
+* **deps:** update dependency org.junit:junit-bom to v5.10.3 ([#53](https://github.com/statnett/k3a-spiffe-principal-builder/issues/53)) ([3af3f07](https://github.com/statnett/k3a-spiffe-principal-builder/commit/3af3f07bfb2c7d83fecef784389fbec8ab11fa28))
+* **deps:** update dependency org.slf4j:slf4j-bom to v2.0.14 ([#60](https://github.com/statnett/k3a-spiffe-principal-builder/issues/60)) ([dec94e7](https://github.com/statnett/k3a-spiffe-principal-builder/commit/dec94e7ebdfc27d12e85a9cde0903b3b9b0aa7c7))
+
 ## [3.1.5](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.4...v3.1.5) (2024-05-13)
 
 
