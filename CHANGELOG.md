@@ -1,5 +1,18 @@
 # Changelog
 
+## [3.1.6](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.5...v3.1.6) (2024-08-14)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.17.2 ([#56](https://github.com/statnett/k3a-spiffe-principal-builder/issues/56)) ([3965522](https://github.com/statnett/k3a-spiffe-principal-builder/commit/39655226df6985bc109228d79374a3f991e3c370))
+* **deps:** update dependency org.apache.kafka:kafka-clients to v3.7.1 ([#55](https://github.com/statnett/k3a-spiffe-principal-builder/issues/55)) ([0ac89d6](https://github.com/statnett/k3a-spiffe-principal-builder/commit/0ac89d6e98abb589f09ab13fbbc7f60b46330407))
+* **deps:** update dependency org.apache.kafka:kafka-clients to v3.8.0 ([#59](https://github.com/statnett/k3a-spiffe-principal-builder/issues/59)) ([4decc64](https://github.com/statnett/k3a-spiffe-principal-builder/commit/4decc6470eabb2a7bf364d0f17b8cb72bd189ca0))
+* **deps:** update dependency org.junit:junit-bom to v5.10.3 ([#53](https://github.com/statnett/k3a-spiffe-principal-builder/issues/53)) ([3af3f07](https://github.com/statnett/k3a-spiffe-principal-builder/commit/3af3f07bfb2c7d83fecef784389fbec8ab11fa28))
+* **deps:** update dependency org.junit:junit-bom to v5.11.0 ([#62](https://github.com/statnett/k3a-spiffe-principal-builder/issues/62)) ([ee4f8e1](https://github.com/statnett/k3a-spiffe-principal-builder/commit/ee4f8e1f82e1f149f287c6aaa922fb85c8757fd7))
+* **deps:** update dependency org.slf4j:slf4j-bom to v2.0.14 ([#60](https://github.com/statnett/k3a-spiffe-principal-builder/issues/60)) ([dec94e7](https://github.com/statnett/k3a-spiffe-principal-builder/commit/dec94e7ebdfc27d12e85a9cde0903b3b9b0aa7c7))
+* **deps:** update dependency org.slf4j:slf4j-bom to v2.0.16 ([#61](https://github.com/statnett/k3a-spiffe-principal-builder/issues/61)) ([2d81a64](https://github.com/statnett/k3a-spiffe-principal-builder/commit/2d81a641113e4d8ca5df69134ebca7e9965578f6))
+
 ## [3.1.5](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.4...v3.1.5) (2024-05-13)
 
 
