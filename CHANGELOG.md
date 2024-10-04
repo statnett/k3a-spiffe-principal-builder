@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.1.7](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.6...v3.1.7) (2024-10-04)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.fasterxml.jackson:jackson-bom to v2.18.0 ([#67](https://github.com/statnett/k3a-spiffe-principal-builder/issues/67)) ([fce4470](https://github.com/statnett/k3a-spiffe-principal-builder/commit/fce44700bf1752c15e1f5e85485f7cbbeead57f0))
+* **deps:** update dependency org.junit:junit-bom to v5.11.1 ([#65](https://github.com/statnett/k3a-spiffe-principal-builder/issues/65)) ([bd3093f](https://github.com/statnett/k3a-spiffe-principal-builder/commit/bd3093f6d7901b7e6cb02811fed5c304a5c04adc))
+* **deps:** update dependency org.junit:junit-bom to v5.11.2 ([#70](https://github.com/statnett/k3a-spiffe-principal-builder/issues/70)) ([b54fe71](https://github.com/statnett/k3a-spiffe-principal-builder/commit/b54fe71c563f424ac47a3b7f1ce7762205cb9ebe))
+
 ## [3.1.6](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.5...v3.1.6) (2024-08-14)
 
 
