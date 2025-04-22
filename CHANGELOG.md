@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.1.9](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.8...v3.1.9) (2025-04-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency org.junit:junit-bom to v5.12.2 ([#95](https://github.com/statnett/k3a-spiffe-principal-builder/issues/95)) ([729274a](https://github.com/statnett/k3a-spiffe-principal-builder/commit/729274af3c707f71329dbe932c8996d4679d9765))
+
 ## [3.1.8](https://github.com/statnett/k3a-spiffe-principal-builder/compare/v3.1.7...v3.1.8) (2025-03-18)
 
 
