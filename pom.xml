@@ -4,7 +4,7 @@
 
     <groupId>io.statnett.k3a</groupId>
     <artifactId>k3a-spiffe-principal-builder</artifactId>
-    <version>3.1.10-SNAPSHOT</version>
+    <version>3.2.0</version>
     <packaging>jar</packaging>
 
     <name>${project.groupId}:${project.artifactId}</name>
